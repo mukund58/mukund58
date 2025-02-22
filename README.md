@@ -10,6 +10,6 @@
 
 ## Connect with me
 
-- [Twitter](https://twitter.com/ParmarMukund58))
+- [Twitter](https://twitter.com/ParmarMukund58)
 - [LinkedIn](https://www.linkedin.com/in/parmarmukund)
 - [Personal Website](https://www.mukund.xyz)
