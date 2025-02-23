@@ -8,7 +8,7 @@
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukund58&layout=compact&theme=radical)
+![mukund58's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukund58&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Connect with me
 
