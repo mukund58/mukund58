@@ -6,9 +6,6 @@
 
 ![mukund58's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukund58&theme=dark&hide_border=true)
 
-## Top Languages
-
-![mukund58's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukund58&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Connect with me
 
