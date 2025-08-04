@@ -1,4 +1,4 @@
-# Hi there, I'm Mukund 👋
+![Mukund](header.png)
 
 ## My GitHub Stats
 
