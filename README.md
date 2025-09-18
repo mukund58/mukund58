@@ -1,4 +1,7 @@
-![header](header.png)
+👋 Hi, I’m Mukund Parmar
+💻 I love building cool stuff with the MERN stack and experimenting with DevOps tools
+🚀 Skilled in JavaScript, React, Node.js, MongoDB, and DevOps practices
+🌟 Open to collaboration, discussions, and fun side projects!
 
 <header align="left">
 
