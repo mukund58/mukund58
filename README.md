@@ -5,38 +5,11 @@
 
 <header align="left">
 
-
-<table align="left">
-  <tr >
-    <th>
-      <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
-      <a href="https://www.mukund.xyz" />  My Portfolio  
-    </th> 
-    <th>
-   <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
-  <a href="https://twitter.com/MukundParmar58" />   LinkedIn
-    </th> 
-     <th>
-       <img align="center" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
-        <a href="https://leetcode.com/u/mukund58/">LeetCode</a>
-    </th>
-     <th>
-       <img align="center" width="24" height="24" src="https://img.icons8.com/color/48/gmail--v1.png" />
-        <a href="mailto:parmarmukund2005@gmail.com" target="_blank" >parmarmukund2005@gmail.com</a>
-    </th>
-     <th>
-       <img width="24" height="24" align="center" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/twitterx--v1.png" alt="twitterx--v1"/>
-      <a href="https://x.com/mukund68" />   𝕏 (Twitter)
-    </th> 
-  </tr>
-  
-</table>
-</section>
-</header>  
-
-
-<br>
-<br>
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mukund.xyz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MukundParmar58)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mukund58/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmarmukund2005@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mukund68)
 
 
 ### Worked with:
@@ -76,8 +49,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mukund58&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
 
   </td>
-  <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund58&theme=dark&hide_border=true" alt="Github Streak" title="Github Streak"/> 
-  </td>
+ 
 </tr>
 
