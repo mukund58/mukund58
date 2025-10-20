@@ -21,9 +21,6 @@
 
 [![Framework](https://skillicons.dev/icons?i=mongodb,react,nodejs,postgresql,tailwindcss)](https://skillicons.dev)
 
-### Libraries
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expressjs,mongoose)
 
 ### Operating Systems
 
