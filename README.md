@@ -4,7 +4,6 @@
 
 I build scalable backend systems using **.NET** and design applications that can handle real-world complexity — not just CRUD demos.
 
----
 
 ## ⚡ What I Do
 
@@ -22,7 +21,7 @@ I build scalable backend systems using **.NET** and design applications that can
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:parmarmukund2005@gmail.com)
 
 
----
+
 
 ## ⚙️ Tech Stack
 
