@@ -1,51 +1,57 @@
 👋 Hi, I’m Mukund Parmar
-💻 I love building cool stuff with the MERN stack and experimenting with DevOps tools
-🚀 Skilled in JavaScript, React, Node.js, MongoDB, and DevOps practices
-🌟 Open to collaboration, discussions, and fun side projects!
+💻 I build scalable backend systems using the .NET stack and love exploring DevOps & cloud-native tools
+🚀 Skilled in C#, .NET, PostgreSQL, Docker, Kubernetes, and modern backend architecture
+🌟 Open to collaboration, discussions, and building impactful projects
 
 <header align="left">
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mukund.xyz)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MukundParmar58)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mukund58/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmarmukund2005@gmail.com)
-[![X (Twitter)](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mukund68)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2ea44f?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://www.mukund.xyz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/MukundParmar58)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/mukund58/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:parmarmukund2005@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/-Twitter-black?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/mukund68)
 
+---
 
-### Worked with:
+### ⚙️ Tech Stack
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=js,java,cpp)](https://skillicons.dev)
+### 🧠 Languages
 
-### Framework
+[![Languages](https://skillicons.dev/icons?i=cs,java,cpp)](https://skillicons.dev)
 
-[![Framework](https://skillicons.dev/icons?i=mongodb,react,nodejs,postgresql,tailwindcss)](https://skillicons.dev)
+### 🏗️ Backend & Frameworks
 
+[![Framework](https://skillicons.dev/icons?i=dotnet,postgresql)](https://skillicons.dev)
 
-### Operating Systems
+### ☁️ DevOps & Cloud
+
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
+### 🖥️ Operating Systems
 
 [![OS](https://skillicons.dev/icons?i=arch,nix,debian,windows)](https://skillicons.dev)
 
-### Tools
+### 🛠️ Tools
 
-[![Tools](https://skillicons.dev/icons?i=neovim,vscode,git,)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=neovim,vscode,git)](https://skillicons.dev)
 
-### About me ☕
-- 🐝 Studies Computer Engineering at [Birla Vishvakarma Mahavidyalaya](https://bvmengineering.ac.in/).
-- Currently in 3rd Year
--  👨🏻‍💻 Most of my experience is in full stack development  
+---
 
-</section>
+### ☕ About Me
 
+* 🐝 Computer Engineering student at Birla Vishvakarma Mahavidyalaya (BVM)
+* 🎓 Currently in 3rd Year
+* 👨🏻‍💻 Focused on backend development, system design, and DevOps practices
+* 🚀 Building real-world .NET projects with scalable architecture
 
+---
 
-## My GitHub Stats
+## 📊 GitHub Stats
+
 <table>
 <tr>
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=mukund58&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
-
   </td>
- 
 </tr>
-
+</table>
